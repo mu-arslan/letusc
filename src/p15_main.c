@@ -11,5 +11,5 @@ main()
 
   /* formula for simple interest */
   si = p*n*r/100;
-  printf("%f", si);
+  printf("%f\n", si);
 }
